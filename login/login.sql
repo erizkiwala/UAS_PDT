@@ -1,0 +1,1 @@
+insert into login values ('riris','12345');

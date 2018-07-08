@@ -1,0 +1,57 @@
+body {
+  background: #ffb5da;
+}
+h2 {
+  color: #fcf7f9;
+  font-family: helvetica;
+  font-weight: 500;
+  margin:20px;
+  text-align: center;
+  text-transform: Capitalize;
+  font-size: 30px;
+}
+#kotak {
+  width: 500px;
+  background: #FFF;
+  border-radius: 10px;
+  padding: 40px 40px;
+  margin:auto;
+}
+.masuk {
+  display: block;
+  padding: 15px 5px;
+  margin-bottom: 20px;
+  border-radius: 1px;
+  border: 5px solid #EFEFEF;
+  background: #EFEFEF;
+  width: 100%;
+  box-sizing: border-box;
+}
+.tombol {
+  padding: 15px 20px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  background: #f97aba;
+  width: 30%;
+  color: black;
+}
+
+#lupa{
+  font-size: 18px;
+  color: #ffffff;
+	margin-top: 18px;
+  float: left;
+}
+
+#baru{
+  font-size: 18px;
+  color: #ffffff;
+	margin-top: 18px;
+  float: right;
+}
+
+#baru a{
+  font-size: 18px;
+  color: #ffffff;
+}
+
